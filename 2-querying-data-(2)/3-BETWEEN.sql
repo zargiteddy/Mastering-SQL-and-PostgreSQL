@@ -1,0 +1,2 @@
+SELECT * FROM payment
+WHERE amount NOT BETWEEN 3.99 and 4.99;

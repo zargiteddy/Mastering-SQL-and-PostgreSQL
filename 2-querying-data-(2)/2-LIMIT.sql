@@ -1,0 +1,3 @@
+SELECT * FROM payment
+ORDER BY amount DESC
+LIMIT 5;
